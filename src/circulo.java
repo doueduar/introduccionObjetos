@@ -14,4 +14,7 @@ public class circulo {
         double perimetroC = 2*pi*radio;
         System.out.println("El perimetro es: "+perimetroC);
     }
+    public void setRadio(double radio){
+        this.radio = radio;
+    }
 }

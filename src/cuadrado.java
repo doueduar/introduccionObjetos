@@ -19,5 +19,6 @@ public class cuadrado {
     }
     public void setLado(double lado){
         this.l = lado;
+        
     }
 }
